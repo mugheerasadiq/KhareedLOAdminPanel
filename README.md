@@ -22,10 +22,8 @@ Main Features
 
 <ul>
    <li>Account management</li>
-   <li>Cart</li>
-   <li>Offers</li>
-   <li>Admin Panel</li>
-   <li>Freshness level (if the product is not fresh then a decent amount of discount will be given on that particular product<li/>
+   <li>Product management</li>
+   <li>Orders management</li>
 </ul>
 
 ## Setup
